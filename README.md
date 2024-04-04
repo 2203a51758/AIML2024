@@ -13,3 +13,4 @@ Assignment_5_https://github.com/2203a51758/AIML2024/blob/main/Assignment5.ipynb
 assignment-6-https://github.com/2203a51758/AIML2024/blob/main/Assignment6.ipynb
 
 assignment - 7 - https://github.com/2203a51758/AIML2024/blob/main/Assignment7.ipynb
+assignment-8- https://github.com/2203a51758/AIML2024/blob/main/Assignment8.ipynb****
