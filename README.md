@@ -16,3 +16,5 @@ assignment - 7 - https://github.com/2203a51758/AIML2024/blob/main/Assignment7.ip
 assignment-8- https://github.com/2203a51758/AIML2024/blob/main/Assignment8.ipynb****
 
 assignment-9-https://github.com/2203a51758/AIML2024/blob/main/Assignment8.ipynb
+
+assignment - 10-https://github.com/2203a51758/AIML2024/commit/725a0ef3eef5e9d1a6087f0e31f0f87e15b09849
