@@ -18,3 +18,5 @@ assignment-8- https://github.com/2203a51758/AIML2024/blob/main/Assignment8.ipynb
 assignment-9-https://github.com/2203a51758/AIML2024/blob/main/Assignment8.ipynb
 
 assignment - 10-https://github.com/2203a51758/AIML2024/commit/725a0ef3eef5e9d1a6087f0e31f0f87e15b09849
+
+group project-3 https://github.com/2203a51758/AIML2024/blob/main/GroupprojectGroup_3.ipynb
